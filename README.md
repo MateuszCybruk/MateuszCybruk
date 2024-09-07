@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MateuszCybruk
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning at PJATK 
-- 📫 How to reach me Try
+
 
 <!---
 MateuszCybruk/MateuszCybruk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
