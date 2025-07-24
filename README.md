@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MateuszCybruk
+- 👋 Hi, I’m @Matt
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning at PJATK 
 
